@@ -1,0 +1,21 @@
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+}
+
+div {
+    display: block;
+    width: 500px;
+    height: 200px;
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+    background: rgb(212, 215, 228);
+
+}
+
+h3 {
+    text-align: center;
+}
