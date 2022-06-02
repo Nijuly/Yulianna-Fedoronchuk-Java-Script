@@ -8,7 +8,7 @@ button:hover {
     background: #cccbcb;
 }
 
-div {
+div.issue {
     display: block;
     width: 500px;
     border: 2px solid grey;
@@ -41,4 +41,28 @@ a {
 
 a:hover {
     background: #cccbcb;
+}
+
+.validBracket {
+    color: #17b817;
+    font-size: 1.5em;
+}
+
+.inValidBracket {
+    color: red;
+    font-size: 1.5em;
+}
+
+div.content {
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
